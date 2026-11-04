@@ -21,7 +21,7 @@ I'm also interested in exploring beyond my usual stack. I like learning new lang
 - JavaScript / TypeScript
 - Node.js
 - SQL / MariaDB
-- Dart
+- Java
 - Linux
 
 **Areas of interest**
